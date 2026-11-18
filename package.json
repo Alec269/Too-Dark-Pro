@@ -2,10 +2,10 @@
    "name": "too-dark-pro",
    "displayName": "Too Dark Pro",
    "description": "",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "icon": "assets/atom.png",
    "engines": {
-      "vscode": "^1.146.0"
+      "vscode": "^1.100.0"
    },
    "publisher": "Alec269",
    "repository": {
