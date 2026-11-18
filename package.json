@@ -1,0 +1,31 @@
+{
+   "name": "too-dark-pro",
+   "displayName": "Too Dark Pro",
+   "description": "",
+   "version": "1.0.0",
+   "icon": "assets/atom.png",
+   "engines": {
+      "vscode": "^1.146.0"
+   },
+   "publisher": "Alec269",
+   "repository": {
+      "url": "https://github.com/Alec269/Too-Dark-Pro.git"
+   },
+   "license": "MIT",
+   "author": {
+      "name": "Alec269",
+      "email": "alac269b@gmail.com"
+   },
+   "categories": [
+      "Themes"
+   ],
+   "contributes": {
+      "themes": [
+         {
+            "label": "Too dark Pro",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Too-dark-pro-color-theme.json"
+         }
+      ]
+   }
+}
